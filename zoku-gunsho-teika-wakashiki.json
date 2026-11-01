@@ -133,6 +133,10 @@
   }
  ],
  "poems": [],
+ "translation": {
+  "count": 9,
+  "note": "AI による現代語訳"
+ },
  "catalog": {
   "work_id": "zoku-gunsho-teika-wakashiki",
   "work": "定家卿和歌式",
@@ -145,7 +149,7 @@
   "blocks": 9,
   "chars": 2741,
   "poems": 0,
-  "yaku": 0,
+  "yaku": 9,
   "editions": 1,
   "updated": "2026-11-02",
   "updated_at": "2026-11-02T06:49:51+09:00"
